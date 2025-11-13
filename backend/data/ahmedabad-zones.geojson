@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahmedabad City Central",
+        "zone_id": "ahm_001",
+        "area_name": "Bhadra / Law Garden",
+        "population": 45000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.54, 23.03],
+            [72.56, 23.03],
+            [72.56, 23.01],
+            [72.54, 23.01],
+            [72.54, 23.03]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maninagar",
+        "zone_id": "ahm_002",
+        "area_name": "East Ahmedabad",
+        "population": 120000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.60, 23.00],
+            [72.65, 23.00],
+            [72.65, 22.96],
+            [72.60, 22.96],
+            [72.60, 23.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navrangpura",
+        "zone_id": "ahm_003",
+        "area_name": "North Central",
+        "population": 85000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.52, 23.06],
+            [72.56, 23.06],
+            [72.56, 23.04],
+            [72.52, 23.04],
+            [72.52, 23.06]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satellite",
+        "zone_id": "ahm_004",
+        "area_name": "West Ahmedabad",
+        "population": 110000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.46, 23.05],
+            [72.50, 23.05],
+            [72.50, 23.02],
+            [72.46, 23.02],
+            [72.46, 23.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vastrapur",
+        "zone_id": "ahm_005",
+        "area_name": "South Central",
+        "population": 95000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.54, 22.98],
+            [72.58, 22.98],
+            [72.58, 22.95],
+            [72.54, 22.95],
+            [72.54, 22.98]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanpur",
+        "zone_id": "ahm_006",
+        "area_name": "South East",
+        "population": 75000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.62, 22.94],
+            [72.68, 22.94],
+            [72.68, 22.90],
+            [72.62, 22.90],
+            [72.62, 22.94]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghatlodia",
+        "zone_id": "ahm_007",
+        "area_name": "West North",
+        "population": 65000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.44, 23.08],
+            [72.50, 23.08],
+            [72.50, 23.05],
+            [72.44, 23.05],
+            [72.44, 23.08]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raikhad",
+        "zone_id": "ahm_008",
+        "area_name": "Central East",
+        "population": 55000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.58, 23.02],
+            [72.62, 23.02],
+            [72.62, 22.99],
+            [72.58, 22.99],
+            [72.58, 23.02]
+          ]
+        ]
+      }
+    }
+  ]
+}

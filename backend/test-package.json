@@ -1,0 +1,15 @@
+{
+  "name": "vicinity-backend-tests",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {}
+}
